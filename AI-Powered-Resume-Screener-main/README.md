@@ -20,8 +20,8 @@ This project is an **AI-powered resume screening tool** that automates the proce
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Namrahh/AI-Powered-Resume-Screener.git
-   cd AI-Resume-Screener
+   git clone https://github.com/AmrutaJanbhor/AI-PoweredResume-screener.git
+   cd AI-PoweredResume-Screener
 
 # Install Dependencies:
 Install the required Python packages:
@@ -92,9 +92,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 4. Submit a pull request.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Future Improvements
 - Multilingual Support: Extend the system to support resumes in multiple languages.
 
@@ -105,10 +102,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - ATS Integration: Enable seamless integration with Applicant Tracking Systems (ATS).
 
 - Real-Time Feedback: Provide candidates with AI-driven insights on resume optimization.
-
-# Contact
-For questions or feedback, please contact:
-
-Your Name: namraaftab8@gmail.com
-
-GitHub: Namrahh
